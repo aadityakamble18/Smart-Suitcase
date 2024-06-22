@@ -1,0 +1,9 @@
+Github Repo.:-
+https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
+--
+https://makersportal.com/blog/2019/6/9/arduino-optical-fingerprint-sensor-as608
+--
+AS608 with Arduino
+https://electropeak.com/learn/interfacing-fpm10a-as608-optical-fingerprint-reader-sensor-module-with-arduino/
+--
+
